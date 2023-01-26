@@ -1,4 +1,4 @@
-#depricated connect
+#depricated connector in mysql will fix soon
 from pilsql import passwd, show_tables, results, export, update, delete, excel2sql, close
 import sys
 from time import sleep
