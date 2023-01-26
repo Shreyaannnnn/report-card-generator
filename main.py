@@ -1,3 +1,4 @@
+#depricated connect
 from pilsql import passwd, show_tables, results, export, update, delete, excel2sql, close
 import sys
 from time import sleep
